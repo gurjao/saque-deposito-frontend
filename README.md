@@ -4,4 +4,6 @@ Uma lista com opções de 'saque' e 'depósito' e 'total', simulando uma movimen
 #### Etapas:
 1. Criação da chave SSH.  
 2. Vinculação da minha conta do github no git.  
-3. Criação das branchs: develop, feature, release.  
+3. Criação das branchs: develop, feature, release. De acordo com o gitflow.  
+    1. Fluxo:
+    ![Fluxo gitflow](assets/imgs/gitflow.jpeg).
