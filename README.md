@@ -1,5 +1,7 @@
 ## saque-deposito-frontend
 Uma lista com opções de 'saque' e 'depósito' e 'total', simulando uma movimentação bancária bem simples.
 
-Criação da chave SSH.\
-Vinculação da minha conta do github no git.
+#### Etapas:
+1. Criação da chave SSH.  
+2. Vinculação da minha conta do github no git.  
+3. Criação das branchs: develop, feature, release.  
